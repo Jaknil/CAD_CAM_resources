@@ -75,12 +75,14 @@ A small demonstration of how you can design a parametric spring in fusion360 tha
 
 ![](parametric_spring.gif)
 
-A small demonstration of a spring that looks like it compresses when you pull on it with your mouse. 
+A small demonstration of a spring that looks like it compresses when you pull on it with your mouse. Made by letting two short springs "collide" on top of each other. It stops and snaps back like a real spring due to the defined joint limits.
 
-Made by letting two short springs "collide" on top of each other.
+ If you don't like how it collides you can make one rotate in place to dissapear into the onther one. However I like the look of the coils getting denser.
 
 ![](dynamic_spring.gif)
 
-[Fusion360 model for both](https://a360.co/2KIyBT1) 
+The gifs were recorded with the much recommended tool (Screen to gif](https://www.screentogif.com/)
+
+Here is the [Fusion360 model for both springs](https://a360.co/2KIyBT1) 
 
 
