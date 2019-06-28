@@ -81,7 +81,7 @@ A small demonstration of a spring that looks like it compresses when you pull on
 
 ![](dynamic_spring.gif)
 
-The gifs were recorded with the much recommended tool (Screen to gif](https://www.screentogif.com/)
+The gifs were recorded with the much recommended tool [Screen to gif](https://www.screentogif.com/)
 
 To see how I did it you can view and download the model:
  [Fusion360 model for both springs](https://a360.co/2KIyBT1) 
