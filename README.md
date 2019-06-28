@@ -69,3 +69,10 @@ When teaching 3D printing to people I think it's incredibly usefull to make them
 I don't think encouraging this is enough, many will be scared to try and will delay it anyway, I recommend making early tests mandatory.
 
 
+# Parametric springs
+
+A small demonstration of how you can design a parametric spring in fusion360 that expands and contracts together with joints.
+
+![](parametric_spring.gif)
+
+[Fusion360 model](https://a360.co/2KIyBT1) 
