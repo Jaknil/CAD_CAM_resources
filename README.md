@@ -83,6 +83,12 @@ A small demonstration of a spring that looks like it compresses when you pull on
 
 The gifs were recorded with the much recommended tool (Screen to gif](https://www.screentogif.com/)
 
-Here is the [Fusion360 model for both springs](https://a360.co/2KIyBT1) 
+To see how I did it you can view and download the model:
+ [Fusion360 model for both springs](https://a360.co/2KIyBT1) 
+ 
+If you still struggle, here are some learning resources:
+Parameters are values that can control multiple dimensions at once. [Here is an official video about that](https://www.youtube.com/watch?v=apkUQKNwHIo)
+
+Joints are used to control relative motions between components. [Here is an official video about that](https://www.youtube.com/watch?v=nngmNos6VI4)
 
 
